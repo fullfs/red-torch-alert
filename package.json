@@ -1,0 +1,24 @@
+{
+  "name": "red-torch-alert",
+  "version": "0.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "nodemailer": "^1.10.0",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fullfs/red-torch-alert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullfs/red-torch-alert/issues"
+  },
+  "homepage": "https://github.com/fullfs/red-torch-alert"
+}
